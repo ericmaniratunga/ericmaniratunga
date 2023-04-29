@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ericmaniratunga
 - 👀 I’m interested in web developping
-- 🌱 I’m currently learning php language and laravel framework
-- 💞️ I’m looking to collaborate on e-commerce
+- 🌱 I’m currently coding with php language and codeigniter framework
 - 📫Join me on watsapp: +25771407369
 
 <!---
